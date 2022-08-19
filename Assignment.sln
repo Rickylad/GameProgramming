@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment", "Assignment.csproj", "{BBCAD7B2-ABD3-468B-BECC-F58523609DB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBCAD7B2-ABD3-468B-BECC-F58523609DB2}.Debug|x86.ActiveCfg = Debug|x86
+		{BBCAD7B2-ABD3-468B-BECC-F58523609DB2}.Debug|x86.Build.0 = Debug|x86
+		{BBCAD7B2-ABD3-468B-BECC-F58523609DB2}.Release|x86.ActiveCfg = Release|x86
+		{BBCAD7B2-ABD3-468B-BECC-F58523609DB2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79E59561-57A1-41CB-B99E-FEE878CD2C72}
+	EndGlobalSection
+EndGlobal
